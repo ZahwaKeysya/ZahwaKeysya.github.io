@@ -1,0 +1,33 @@
+.jumbotron { margin: 140px 100px 100px 250px;
+text-align: center;
+	font-family: "Lucida Handwriting", cursive, sans-serif;
+	text-shadow: 0 0 4px white , 1px 1px 5px white;
+	font-size: 40pt;
+background-color: #A9A9A9;
+border-radius: 25px}
+body { 
+	  background-image: url(https://wallpapercave.com/wp/wp2337007.jpg);
+      margin: 100px 100px 100px 250px; }
+h1 { text-align: left;
+	font-family: "Lucida Handwriting", cursive, sans-serif;
+	text-shadow: 0 0 4px white , 1px 1px 5px white;
+	font-size: 30pt}
+h3 {
+	font-size: 20pt;
+	font-family: "Lucida Console", "Courier New", monospace}
+img {
+	 width: 200px;
+	 border-radius: 25px;}
+table, td, th{
+	border: 2px solid black;
+	font-family: "Monaco", Halvetica, cursive;
+	font-size: large;}
+tr:nth-child(even) {background-color: plum;}
+p {
+	font-family:"Monaco", Halvetica, cursive;
+	font-size: large;
+	text-align: justify
+  	width: 100%;
+  	outline: plum solid 10px;
+  	margin: auto;  
+  	padding: 20px }
