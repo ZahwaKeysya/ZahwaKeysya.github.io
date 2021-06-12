@@ -1,7 +1,7 @@
 body { 
-	  background-color: lightpink;
-      margin: 100px 100px 100px 100px; }
-h1 { 
+	  background-image: url(https://wallpapercave.com/wp/wp2337007.jpg);
+      margin: 100px 100px 100px 250px; }
+h1 { text-align: left;
 	font-family: "Lucida Handwriting", cursive, sans-serif;
 	text-shadow: 0 0 4px white , 1px 1px 5px white;
 	font-size: 30pt}
@@ -9,7 +9,7 @@ h3 {
 	font-size: 20pt;
 	font-family: "Lucida Console", "Courier New", monospace}
 img {
-	 width: 200px;
+	 width: 300px;
 	 border-radius: 25px;}
 table, td, th{
 	border: 2px solid black;
